@@ -19,10 +19,10 @@
   </a>
   
   <a href="https://github.com/ileadall42">
-  <img align="left" alt="ileadall42's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github" />
+  <img align="left" alt="ileadall42's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=ileadall42.visitor-badge)
 
 <br />
 
