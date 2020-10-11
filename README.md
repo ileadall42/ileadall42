@@ -40,7 +40,7 @@
 * **now : working in 西厂**
 * 17 年跟 zack 和 isa 运营公众号**IT派**以及尝试做一个国内的[fiverr](https://www.fiverr.com/ "技能交易平台")（斜杠派）。  
 * 18 年开发医疗肿瘤相关的应用后台[小刘医生](http://www.e-interconnection.com/ "产品页面")、电视台新闻后台自然语言处理项目。
-* 19 年杭州**[蘑菇街](https://www.mogu.com/ "电商购物平台")**实习，商品相关需求实现。
+* 19 年杭州[蘑菇街](https://www.mogu.com/ "电商购物平台")实习，商品相关需求实现。
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
