@@ -5,17 +5,13 @@
   <img align="left" alt="EvanDonn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="EvanDonn's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 <a href="https://leetcode.com/ileadall42/">
   <img align="left" alt="EvanDonn's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
   <a href="https://stackoverflow.com/users/8017677/ileadall42">
-  <img align="left" alt="EvanDonn's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="EvanDonn's stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
   </a>
-  
+
   <a href="https://github.com/ileadall42">
   <img align="left" alt="ileadall42's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
@@ -30,9 +26,10 @@
 
 **MAC OS**爱好者，效率控、软件控。当然了，无聊的国产电视剧也深得我心。
 
- 
-**一些点**
-- 👨🏽‍💻 西厂后端开发工程师一枚;
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+**关于我**
+- 💻 西厂后端开发工程师一枚;
 - 🌱 Java、python、些许前端技能; 
 - 🤔 正在努力打怪搬砖;
 - 💬 欢迎交流人生难题，给予指导。;
